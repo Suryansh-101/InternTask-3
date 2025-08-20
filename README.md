@@ -1,7 +1,7 @@
 # 🔢 Matrix Operations Tool
 
 ## 📌 Overview
-This project was developed during my internship at **CodexIntern**.  
+This project was developed during my internship at **CODEXINTERN**.  
 It is an **interactive command-line application** built using **Python and NumPy** that allows users to perform various matrix operations with ease.  
 
 Users can input matrices of any size, and the tool provides structured results for operations like **addition, subtraction, multiplication, transpose, and determinant calculation**.  
